@@ -1,0 +1,1 @@
+# responsive-template-2
